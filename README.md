@@ -1,5 +1,5 @@
-# xmen_reading_guide
-> Adapted from https://readingthexmen.blogspot.com/p/guide-to-reading-x-men-comics.html with links to marvel.com
+# X-Men Reading Guide
+> Adapted from https://readingthexmen.blogspot.com/p/guide-to-reading-x-men-comics.html with links to www.marvel.com
 
 ## The Original X-Men (1963-70) & Modern Interpretations 
 ### Option #1
