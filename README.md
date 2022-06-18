@@ -16,7 +16,7 @@
 ## The Original X-Men (1963-70) & Modern Interpretations
 ### Option #1
 * Uncanny X-Men (1963) #1-19
-  - [ ] [Uncanny X-Men (1963) #1](https://www.marvel.com/comics/issue/12413/uncanny_x-men_1963_1)
+  - [] [Uncanny X-Men (1963) #1](https://www.marvel.com/comics/issue/12413/uncanny_x-men_1963_1)
   * [ ] [Uncanny X-Men (1963) #2](https://www.marvel.com/comics/issue/12466/uncanny_x-men_1963_2)
   * [ ] [Uncanny X-Men (1963) #3](https://www.marvel.com/comics/issue/12477/uncanny_x-men_1963_3)
   * [ ] [Uncanny X-Men (1963) #4](https://www.marvel.com/comics/issue/12488/uncanny_x-men_1963_4)
