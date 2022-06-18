@@ -1,6 +1,18 @@
 # X-Men Reading Guide
 > Adapted from https://readingthexmen.blogspot.com/p/guide-to-reading-x-men-comics.html with links to www.marvel.com
 
+ - [The Original X-Men (1963-70) & Modern Interpretations](#the-original-x-men-1963-70--modern-interpretations)
+   - [Option #1](#option-1)
+   - [Option #2](#option-2)
+   - [Option #3](#option-3)
+   - [Optional](#optional)
+ - [The Chris Claremont Era (1975-1991) ](#the-chris-claremont-era-1975-1991)
+   - [Chris Claremont Era #1](#chris-claremont-era-1)
+   - [Chris Claremont Era #2](#chris-claremont-era-2)
+   - [Chris Claremont Era #3](#chris-claremont-era-3)
+   - [Chris Claremont Era #4](#chris-claremont-era-4)
+   - [Optional](#optional-1)
+
 ## The Original X-Men (1963-70) & Modern Interpretations
 ### Option #1
 * Uncanny X-Men (1963) #1-19
