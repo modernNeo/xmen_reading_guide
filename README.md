@@ -249,22 +249,22 @@
  * New Mutants Special #1
  * X-Men Annual #9
  * Uncanny X-Men #199-200
- - [Uncanny X-Men (1963) #199](https://www.marvel.com/comics/issue/13740/uncanny_x-men_1963_199)
- - [Uncanny X-Men (1963) #200](https://www.marvel.com/comics/issue/13741/uncanny_x-men_1963_200)
+   - [Uncanny X-Men (1963) #199](https://www.marvel.com/comics/issue/13740/uncanny_x-men_1963_199)
+   - [Uncanny X-Men (1963) #200](https://www.marvel.com/comics/issue/13741/uncanny_x-men_1963_200)
 ### Chris Claremont Era #3
  * Uncanny X-Men #199-210
-  - [Uncanny X-Men (1963) #199](https://www.marvel.com/comics/issue/13740/uncanny_x-men_1963_199)
-  - [Uncanny X-Men (1963) #200](https://www.marvel.com/comics/issue/13741/uncanny_x-men_1963_200)
-  - [Uncanny X-Men (1963) #201](https://www.marvel.com/comics/issue/13742/uncanny_x-men_1963_201)
-  - [Uncanny X-Men (1963) #202](https://www.marvel.com/comics/issue/13743/uncanny_x-men_1963_202)
-  - [Uncanny X-Men (1963) #203](https://www.marvel.com/comics/issue/13744/uncanny_x-men_1963_203)
-  - [Uncanny X-Men (1963) #204](https://www.marvel.com/comics/issue/13745/uncanny_x-men_1963_204)
-  - [Uncanny X-Men (1963) #205](https://www.marvel.com/comics/issue/13746/uncanny_x-men_1963_205)
-  - [Uncanny X-Men (1963) #206](https://www.marvel.com/comics/issue/13747/uncanny_x-men_1963_206)
-  - [Uncanny X-Men (1963) #207](https://www.marvel.com/comics/issue/13748/uncanny_x-men_1963_207)
-  - [Uncanny X-Men (1963) #208](https://www.marvel.com/comics/issue/13749/uncanny_x-men_1963_208)
-  - [Uncanny X-Men (1963) #209](https://www.marvel.com/comics/issue/13750/uncanny_x-men_1963_209)
-  - [Uncanny X-Men (1963) #210](https://www.marvel.com/comics/issue/13751/uncanny_x-men_1963_210)
+   - [Uncanny X-Men (1963) #199](https://www.marvel.com/comics/issue/13740/uncanny_x-men_1963_199)
+   - [Uncanny X-Men (1963) #200](https://www.marvel.com/comics/issue/13741/uncanny_x-men_1963_200)
+   - [Uncanny X-Men (1963) #201](https://www.marvel.com/comics/issue/13742/uncanny_x-men_1963_201)
+   - [Uncanny X-Men (1963) #202](https://www.marvel.com/comics/issue/13743/uncanny_x-men_1963_202)
+   - [Uncanny X-Men (1963) #203](https://www.marvel.com/comics/issue/13744/uncanny_x-men_1963_203)
+   - [Uncanny X-Men (1963) #204](https://www.marvel.com/comics/issue/13745/uncanny_x-men_1963_204)
+   - [Uncanny X-Men (1963) #205](https://www.marvel.com/comics/issue/13746/uncanny_x-men_1963_205)
+   - [Uncanny X-Men (1963) #206](https://www.marvel.com/comics/issue/13747/uncanny_x-men_1963_206)
+   - [Uncanny X-Men (1963) #207](https://www.marvel.com/comics/issue/13748/uncanny_x-men_1963_207)
+   - [Uncanny X-Men (1963) #208](https://www.marvel.com/comics/issue/13749/uncanny_x-men_1963_208)
+   - [Uncanny X-Men (1963) #209](https://www.marvel.com/comics/issue/13750/uncanny_x-men_1963_209)
+   - [Uncanny X-Men (1963) #210](https://www.marvel.com/comics/issue/13751/uncanny_x-men_1963_210)
  * X-Factor #9
  * [Uncanny X-Men #211](https://www.marvel.com/comics/issue/13752/uncanny_x-men_1963_211)
  * X-Factor #10
@@ -371,8 +371,8 @@
  * Uncanny X-Men Annual #15
  * X-Factor Annual #6
  * Uncanny X-Men #278-279
-  - [Uncanny X-Men (1963) #278](https://www.marvel.com/comics/issue/13819/uncanny_x-men_1963_278)
-  - [Uncanny X-Men (1963) #279](https://www.marvel.com/comics/issue/13820/uncanny_x-men_1963_279)
+   - [Uncanny X-Men (1963) #278](https://www.marvel.com/comics/issue/13819/uncanny_x-men_1963_278)
+   - [Uncanny X-Men (1963) #279](https://www.marvel.com/comics/issue/13820/uncanny_x-men_1963_279)
  * X-Factor #69
  * [Uncanny X-Men #280](https://www.marvel.com/comics/issue/13821/uncanny_x-men_1963_280)
  * X-Factor #70
