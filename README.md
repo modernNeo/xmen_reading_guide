@@ -13,6 +13,18 @@
    - [Chris Claremont Era #4](#chris-claremont-era-4)
    - [Optional](#optional-1)
 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+
+- [] Checkbox not checked
 ## The Original X-Men (1963-70) & Modern Interpretations
 ### Option #1
 * Uncanny X-Men (1963) #1-19
