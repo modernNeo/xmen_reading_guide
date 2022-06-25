@@ -144,7 +144,7 @@
    - [Uncanny X-Men (1963) #122](https://www.marvel.com/comics/issue/12439/uncanny_x-men_1963_122)
    - [Uncanny X-Men (1963) #123](https://www.marvel.com/comics/issue/12440/uncanny_x-men_1963_123)
    - [Uncanny X-Men (1963) #124](https://www.marvel.com/comics/issue/12441/uncanny_x-men_1963_124)
- * Uncanny X-Men Annual #3
+ * [Uncanny X-Men Annual #3](https://www.marvel.com/comics/issue/12363/x-men_annual_1970_3)
  * Uncanny X-Men #125-138
    - [Uncanny X-Men (1963) #125](https://www.marvel.com/comics/issue/12442/uncanny_x-men_1963_125)
    - [Uncanny X-Men (1963) #126](https://www.marvel.com/comics/issue/12443/uncanny_x-men_1963_126)
@@ -160,7 +160,7 @@
    - [Uncanny X-Men (1963) #136](https://www.marvel.com/comics/issue/12454/uncanny_x-men_1963_136)
    - [Uncanny X-Men (1963) #137](https://www.marvel.com/comics/issue/12455/uncanny_x-men_1963_137)
    - [Uncanny X-Men (1963) #138](https://www.marvel.com/comics/issue/12456/uncanny_x-men_1963_138)
- * Uncanny X-Men Annual #4
+ * [Uncanny X-Men Annual #4](https://www.marvel.com/comics/issue/12364/x-men_annual_1970_4)
  * Uncanny X-Men #139-143
    - [Uncanny X-Men (1963) #139](https://www.marvel.com/comics/issue/12457/uncanny_x-men_1963_139)
    - [Uncanny X-Men (1963) #140](https://www.marvel.com/comics/issue/12459/uncanny_x-men_1963_140)
@@ -183,7 +183,7 @@
    - [Uncanny X-Men (1963) #149](https://www.marvel.com/comics/issue/13690/uncanny_x-men_1963_149)
    - [Uncanny X-Men (1963) #150](https://www.marvel.com/comics/issue/13691/uncanny_x-men_1963_150)
  * Avengers Annual #10
- * Uncanny X-Men Annual #5
+ * [Uncanny X-Men Annual #5](https://www.marvel.com/comics/issue/12365/x-men_annual_1970_5)
  * Uncanny X-Men #151-160
    - [Uncanny X-Men (1963) #151](https://www.marvel.com/comics/issue/13692/uncanny_x-men_1963_151)
    - [Uncanny X-Men (1963) #152](https://www.marvel.com/comics/issue/13693/uncanny_x-men_1963_152)
@@ -196,7 +196,7 @@
    - [Uncanny X-Men (1963) #159](https://www.marvel.com/comics/issue/13700/uncanny_x-men_1963_159)
    - [Uncanny X-Men (1963) #160](https://www.marvel.com/comics/issue/13701/uncanny_x-men_1963_160)
  * Magik #1-4
- * Uncanny X-Men Annual #6
+ * [Uncanny X-Men Annual #6](https://www.marvel.com/comics/issue/12366/x-men_annual_1970_6)
  * Uncanny X-Men #161-168
    - [Uncanny X-Men (1963) #161](https://www.marvel.com/comics/issue/13702/uncanny_x-men_1963_161)
    - [Uncanny X-Men (1963) #162](https://www.marvel.com/comics/issue/13703/uncanny_x-men_1963_162)
@@ -217,7 +217,7 @@
    - [Uncanny X-Men (1963) #173](https://www.marvel.com/comics/issue/13714/uncanny_x-men_1963_173)
    - [Uncanny X-Men (1963) #174](https://www.marvel.com/comics/issue/13715/uncanny_x-men_1963_174)
    - [Uncanny X-Men (1963) #175](https://www.marvel.com/comics/issue/13716/uncanny_x-men_1963_175)
- * Uncanny X-Men Annual #7
+ * [Uncanny X-Men Annual #7](https://www.marvel.com/comics/issue/12367/x-men_annual_1970_7)
  * Uncanny X-Men #176-191
    - [Uncanny X-Men (1963) #176](https://www.marvel.com/comics/issue/13717/uncanny_x-men_1963_176)
    - [Uncanny X-Men (1963) #177](https://www.marvel.com/comics/issue/13718/uncanny_x-men_1963_177)
@@ -237,7 +237,7 @@
    - [Uncanny X-Men (1963) #191](https://www.marvel.com/comics/issue/13732/uncanny_x-men_1963_191)
  * Wolverine & Kitty Pryde #1-6
  * [Uncanny X-Men #192](https://www.marvel.com/comics/issue/13733/uncanny_x-men_1963_192)
- * Uncanny X-Men Annual #8
+ * [Uncanny X-Men Annual #8](https://www.marvel.com/comics/issue/12368/x-men_annual_1970_8)
  * X-Men & Alpha Flight #1-2
  * Uncanny X-Men #193-198
    - [Uncanny X-Men (1963) #193](https://www.marvel.com/comics/issue/13734/uncanny_x-men_1963_193)
@@ -247,7 +247,7 @@
    - [Uncanny X-Men (1963) #197](https://www.marvel.com/comics/issue/13738/uncanny_x-men_1963_197)
    - [Uncanny X-Men (1963) #198](https://www.marvel.com/comics/issue/13739/uncanny_x-men_1963_198)
  * New Mutants Special #1
- * X-Men Annual #9
+ * [X-Men Annual #9](https://www.marvel.com/comics/issue/12369/x-men_annual_1970_9)
  * Uncanny X-Men #199-200
    - [Uncanny X-Men (1963) #199](https://www.marvel.com/comics/issue/13740/uncanny_x-men_1963_199)
    - [Uncanny X-Men (1963) #200](https://www.marvel.com/comics/issue/13741/uncanny_x-men_1963_200)
@@ -274,7 +274,7 @@
  * [Uncanny X-Men #212](https://www.marvel.com/comics/issue/13753/uncanny_x-men_1963_212)
  * X-Factor #11
  * [Uncanny X-Men 213](https://www.marvel.com/comics/issue/13754/uncanny_x-men_1963_213)
- * Uncanny X-Men Annual #10
+ * [Uncanny X-Men Annual #10](https://www.marvel.com/comics/issue/12356/x-men_annual_1970_10)
  * Uncanny X-Men #214-219
    - [Uncanny X-Men (1963) #214](https://www.marvel.com/comics/issue/13755/uncanny_x-men_1963_214)
    - [Uncanny X-Men (1963) #215](https://www.marvel.com/comics/issue/13756/uncanny_x-men_1963_215)
@@ -282,7 +282,7 @@
    - [Uncanny X-Men (1963) #217](https://www.marvel.com/comics/issue/13758/uncanny_x-men_1963_217)
    - [Uncanny X-Men (1963) #218](https://www.marvel.com/comics/issue/13759/uncanny_x-men_1963_218)
    - [Uncanny X-Men (1963) #219](https://www.marvel.com/comics/issue/13760/uncanny_x-men_1963_219)
- * Uncanny X-Men Annual #11
+ * [Uncanny X-Men Annual #11](https://www.marvel.com/comics/issue/12357/x-men_annual_1970_11)
  * Fantastic Four vs. X-Men #1-4
  * Uncanny X-Men #220-234
    - [Uncanny X-Men (1963) #220](https://www.marvel.com/comics/issue/13761/uncanny_x-men_1963_220)
@@ -300,7 +300,7 @@
    - [Uncanny X-Men (1963) #232](https://www.marvel.com/comics/issue/13773/uncanny_x-men_1963_232)
    - [Uncanny X-Men (1963) #233](https://www.marvel.com/comics/issue/13774/uncanny_x-men_1963_233)
    - [Uncanny X-Men (1963) #234](https://www.marvel.com/comics/issue/13775/uncanny_x-men_1963_234)
- * Uncanny X-Men Annual #12
+ * [Uncanny X-Men Annual #12](https://www.marvel.com/comics/issue/12358/x-men_annual_1970_12)
  * Uncanny X-Men #235-241
    - [Uncanny X-Men (1963) #235](https://www.marvel.com/comics/issue/13776/uncanny_x-men_1963_235)
    - [Uncanny X-Men (1963) #236](https://www.marvel.com/comics/issue/13777/uncanny_x-men_1963_236)
@@ -319,7 +319,7 @@
  * Uncanny X-Men #244-245
    - [Uncanny X-Men (1963) #244](https://www.marvel.com/comics/issue/13785/uncanny_x-men_1963_244)
    - [Uncanny X-Men (1963) #245](https://www.marvel.com/comics/issue/13786/uncanny_x-men_1963_245)
- * Uncanny X-Men Annual #13
+ * [Uncanny X-Men Annual #13](https://www.marvel.com/comics/issue/12359/x-men_annual_1970_13)
  * Uncanny X-Men #246-267
    - [Uncanny X-Men (1963) #246](https://www.marvel.com/comics/issue/13787/uncanny_x-men_1963_246)
    - [Uncanny X-Men (1963) #247](https://www.marvel.com/comics/issue/13788/uncanny_x-men_1963_247)
@@ -346,7 +346,7 @@
  * Fantastic Four Annual #23
  * X-Factor Annual #5
  * New Mutants Annual #6
- * Uncanny X-Men Annual #14
+ * [Uncanny X-Men Annual #14](https://www.marvel.com/comics/issue/12360/x-men_annual_1970_14)
  * Uncanny X-Men #268-270
    - [Uncanny X-Men (1963) #268](https://www.marvel.com/comics/issue/13809/uncanny_x-men_1963_268)
    - [Uncanny X-Men (1963) #269](https://www.marvel.com/comics/issue/13810/uncanny_x-men_1963_269)
@@ -368,7 +368,7 @@
  * X-Factor #65-68
  * New Mutants Annual #7
  * New Warriors Annual #1
- * Uncanny X-Men Annual #15
+ * [Uncanny X-Men Annual #15](https://www.marvel.com/comics/issue/12361/x-men_annual_1970_15)
  * X-Factor Annual #6
  * Uncanny X-Men #278-279
    - [Uncanny X-Men (1963) #278](https://www.marvel.com/comics/issue/13819/uncanny_x-men_1963_278)
