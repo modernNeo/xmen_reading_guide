@@ -1,4 +1,11 @@
 # The Chris Claremont Era (1975-1991)
+
+- [Chris Claremont Era #1](#chris-claremont-era-1)
+- [Chris Claremont Era #2](#chris-claremont-era-2)
+- [Chris Claremont Era #3](#chris-claremont-era-3)
+- [Chris Claremont Era #4](#chris-claremont-era-4)
+- [Optional](#optional)
+
 ## Chris Claremont Era #1
  * [Giant Size X-Men #1](https://www.marvel.com/comics/issue/8797/giant-size_x-men_1975_1)
  * Uncanny X-Men #94-124
