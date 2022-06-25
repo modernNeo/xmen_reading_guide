@@ -1,5 +1,7 @@
 # The Chris Claremont Era (1975-1991)
 
+[Back to Main Page](https://github.com/modernNeo/xmen_reading_guide)
+
 - [Chris Claremont Era #1](#chris-claremont-era-1)
 - [Chris Claremont Era #2](#chris-claremont-era-2)
 - [Chris Claremont Era #3](#chris-claremont-era-3)
